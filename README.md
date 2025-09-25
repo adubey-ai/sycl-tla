@@ -294,7 +294,7 @@ Instructions for building and running the Unit tests are described in the [Quick
 
 # About
 
-CUTLASS-SYCL is released by INTEL Corporation as Open Source software under the
+CUTLASS-SYCL is released by INTEL Corporation as Open Source software under the 
 [3-clause "New" BSD license](LICENSE.txt).
 
 # Contributors
